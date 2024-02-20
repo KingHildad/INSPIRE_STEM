@@ -7,4 +7,6 @@ Second_number=2
 
 mod=First_number%Second_number
 print("The modulus of the two numbers is",mod)
-
+print(5+7/2*0.5)
+print((5+7)/2*0.5)
+print(2**3)
