@@ -1,6 +1,8 @@
 #get name,age,salary,bonuses,
 #increase salary by 30%
 #Decrease bonuses by 5000 ksh
+#Name:Hildad
+#Date:22/02/2024
 
 Name=(input("Enter employee name:"))
 Age=int(input("Enter employee age in years:"))
