@@ -52,4 +52,12 @@ print(subject.split(":"))
 age=19
 height=2.0
 
-print("i am  {0} years old and {1} meters tall" .format (age,height))
+print("i am  {0} years old and {1} meters tall" .format (age,height)) 
+
+#len()-Counts the number of characters in a word
+height = 1.22345
+
+name = "Hildad"
+print(len(name))
+
+
