@@ -21,3 +21,5 @@ squares=[]#initialises my empty list
 for x in range(0,12):
     squares.append(x**2)
     print(squares)
+
+#exted,append,insert,remove,clear,index,count,sort,reverse,copy,pop
